@@ -1,0 +1,51 @@
+body{
+    background-color:black;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold ;
+    /* margin-left: 450px; */
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color:black;
+    margin-left: 300px;
+    margin-top: 40px;
+    font-size: 35px;
+}
+img{
+    margin-left: 300px;
+    margin-top: 10px;
+    border-radius: 4rem;
+}
+button{
+    color:white;
+    background-color:black;
+    padding: 4px 14px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+    font-family: cursive;
+    width: 100px;
+    height: 50px;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+button:hover {
+    background-color: papayawhip;
+    color: black;
+}
+.container{
+    display: flex;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1619252584172-a83a949b6efd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTV8fHxlbnwwfHx8fHw%3D&w=1000&q=80);
+    background-repeat: no repeat;
+    background-size: cover;
+}
+
