@@ -24,7 +24,7 @@ img{
 }
 button{
     color:white;
-    background-color:black;
+    /* background-color:black; */
     padding: 4px 14px;
     border: 2px solid black;
     border-radius: 10px;
